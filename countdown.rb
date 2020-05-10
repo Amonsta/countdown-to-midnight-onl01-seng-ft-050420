@@ -12,8 +12,7 @@ def countdown_with_sleep(s)
   sleep 5
 end
 
-countdown_with_sleep(sleep)
-countdown(10)
+
 
 
 
